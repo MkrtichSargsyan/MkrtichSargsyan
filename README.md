@@ -1,15 +1,21 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
+<h4>
+  You can call me Mike :blush: <br>
+  I'm a passionate full stack web developer from Armenia.
+</h4>
 
 <h3>Talking about Personal Stuffs:</h3>
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects
 - 💬 Ask me about anything, I am happy to help
 - 📄 Please have a look at my [Résumé](https://docs.google.com/document/d/1VEUnqDuNRsuU_kx3Ctb3LNe-g0HpMLziwiOcftW6hSc/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
+
+<br>
+<br>
 
 <div>
 
@@ -32,7 +38,8 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 
 <div/>
 
-
+<br>
+<br>
 
 <h3>
   <summary>
@@ -51,18 +58,18 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mkrtich-sargsyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+    <img height='25' src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/MkrtichSargsyan">
-    <img src="https://img.shields.io/badge/Github-MkrtichSargsyan-red?logo=Github&logoColor=red&labelColor=black">
+    <img height='25' src="https://img.shields.io/badge/Github-MkrtichSargsyan-red?logo=Github&logoColor=red&labelColor=black">
   </a>
 
   <a href="https://twitter.com/MkrtichSargsyan">
-    <img src="https://img.shields.io/badge/Twitter-MkrtichSargsyan-blue?logo=Twitter&logoColor=blue&labelColor=black">
+    <img height='25' src="https://img.shields.io/badge/Twitter-MkrtichSargsyan-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
 
   <a href="mailto:mkrtichsargsyan24@gmil.com">
-    <img src="https://img.shields.io/badge/Gmail-mkrtichsargsyan24@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+    <img height='25' src="https://img.shields.io/badge/Gmail-mkrtichsargsyan24@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
 </p>
