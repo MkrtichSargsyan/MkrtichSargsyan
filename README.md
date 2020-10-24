@@ -11,6 +11,10 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 - 📄 Please have a look at my [Résumé](https://docs.google.com/document/d/1VEUnqDuNRsuU_kx3Ctb3LNe-g0HpMLziwiOcftW6hSc/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 ### 🛠 Tech Stack
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -24,8 +28,6 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <h3>
@@ -63,6 +65,3 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
     <img src="https://img.shields.io/badge/Gmail-mkrtichsargsyan24@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
 </p>
-
-
-
