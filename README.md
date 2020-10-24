@@ -11,9 +11,9 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 - 📄 Please have a look at my [Résumé](https://docs.google.com/document/d/1VEUnqDuNRsuU_kx3Ctb3LNe-g0HpMLziwiOcftW6hSc/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
 
+<div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> <br>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### 🛠 Tech Stack
 
@@ -30,6 +30,7 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
 
+<div/>
 
 
 
