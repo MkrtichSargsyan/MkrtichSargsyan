@@ -13,7 +13,7 @@ I'm Mkrtich Sargsyan, a passionate full stack web developer from Armenia.
 
 <div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
 ### 🛠 Tech Stack
 
