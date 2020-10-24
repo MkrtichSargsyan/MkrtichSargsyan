@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1><i>Hello there,fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h4>
   You can call me Mike :blush: <br>
@@ -60,18 +60,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mkrtich-sargsyan/">
-    <img height='25' src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/MkrtichSargsyan">
-    <img height='25' src="https://img.shields.io/badge/Github-MkrtichSargsyan-red?logo=Github&logoColor=red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Github-MkrtichSargsyan-red?logo=Github&logoColor=red&labelColor=black">
   </a>
 
   <a href="https://twitter.com/MkrtichSargsyan">
-    <img height='25' src="https://img.shields.io/badge/Twitter-MkrtichSargsyan-blue?logo=Twitter&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Twitter-MkrtichSargsyan-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
 
   <a href="mailto:mkrtichsargsyan24@gmil.com">
-    <img height='25' src="https://img.shields.io/badge/Gmail-mkrtichsargsyan24@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Gmail-mkrtichsargsyan24@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
   </a>
 </p>
