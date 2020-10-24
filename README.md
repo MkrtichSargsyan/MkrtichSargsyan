@@ -5,7 +5,7 @@
   I'm a passionate full stack web developer from Armenia.
 </h4>
 
-<h3>Talking about Personal Stuffs:</h3>
+<h3> 👨🏻‍💻 &nbsp; Talking about Personal Stuffs:</h3> 
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
@@ -15,13 +15,13 @@
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
 
 <br>
-<br>
 
 <div>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="200" />
 
-### 🛠 Tech Stack
+### 🛠 &nbsp; Tech Stack  
+<br>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -43,8 +43,10 @@
 
 <h3>
   <summary>
-    📈 My GitHub Stats
+    📈  &nbsp; My GitHub Stats
   </summary> 
+  
+  <br>
 
   <p align="center">
    <a href="https://github.com/MkrtichSargsyan">
@@ -54,7 +56,7 @@
 </p>
 </h3>
 
-### 🤝🏻 Connect with Me
+### 🤝🏻  &nbsp; Connect with Me <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mkrtich-sargsyan/">
