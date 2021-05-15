@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects
 - 💬 Ask me about anything, I am happy to help
-- 📄 Please have a look at my [Résumé](https://docs.google.com/document/d/1VEUnqDuNRsuU_kx3Ctb3LNe-g0HpMLziwiOcftW6hSc/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://docs.google.com/document/d/1LSZS8Fb1JeWTeDxypFzB-Dbk43PW5YjmpvYisxxDIe8/edit) and [Portfolio](https://www.mikesargsyan.com/) for more details about me. I'm open to feedback and suggestions!
 - ⚡ Fun fact: Which came first, the chicken or the egg? JavaScript knows the answer. ["🥚","🐔"].sort() &#10145;  ["🐔", "🥚"]
 
 <br>
