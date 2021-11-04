@@ -48,10 +48,11 @@
   
   <br>
 
+  
   <p align="center">
    <a href="https://github.com/MkrtichSargsyan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MkrtichSargsyan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkrtichSargsyan&show_icons=true&theme=midnight-purple&layout=compact" alt="mikesargsyan" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MkrtichSargsyan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MkrtichSargsyan&show_icons=true&theme=midnight-purple&layout=compact" alt="mikesargsyan" />
   </a>
 </p>
 </h3>
